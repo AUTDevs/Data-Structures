@@ -1,3 +1,13 @@
+So LinkedList provides the following two advantages over arrays
+1) Dynamic size
+2) Ease of insertion/deletion
+
+Disadvantages:
+-  Random access is not allowed
+-  Arrays have better cache
+
+
+
 Struct node
 {
   int data;
